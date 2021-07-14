@@ -2,9 +2,15 @@
 
 I’m a beginner software developer.
 
-🌱 I’m currently learning SQL and going to learn Docker, Django, HTML, CSS and more interesting things.
+🌱 I’m currently learning SQL and going to learn Docker, Django, HTML, CSS and more usefull things. 
 
 There is nothing interesting to see now, but not for a long :)
+
+📫 How to reach me: 
+- linkedin: vladislavlapkovsky
+- email: vladlapkovsky@gmail.com
+
+😄 $ sudo apt hire VladLapkovsky
 
 <!--
 **VladLapkovsky/VladLapkovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
