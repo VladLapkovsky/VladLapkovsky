@@ -2,9 +2,7 @@
 
 I’m a beginner software developer.
 
-🌱 I’m currently learning SQL and going to learn Docker, Django, and more usefull things. 
-
-There is nothing interesting to see now, but not for a long :)
+🌱 I’m currently learning SQL and going to learn Docker, Django, and more usefull things.
 
 📫 How to reach me: 
 - linkedin: vladislavlapkovsky
