@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I’m a beginner software developer.
-
-🌱 I’m currently learning SQL and going to learn Django, and more usefull things.
-
 📫 How to reach me: 
 - linkedin: vladislavlapkovsky
 - email: vladlapkovsky@gmail.com
@@ -12,6 +8,11 @@ I’m a beginner software developer.
 
 <!--
 **VladLapkovsky/VladLapkovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+I’m a beginner software developer.
+
+🌱 I’m currently learning SQL and going to learn Django, and more usefull things.
 
 Here are some ideas to get you started:
 
