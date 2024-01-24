@@ -2,7 +2,7 @@
 
 📫 How to reach me: 
 - linkedin: vladlapkovsky
-- email: vladlapkovsky@gmail.com
+- email: vladlapkovskyus@gmail.com
 
 😄 $ sudo apt hire VladLapkovsky
 
