@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 📫 How to reach me: 
-- linkedin: vladislavlapkovsky
+- linkedin: vladlapkovsky
 - email: vladlapkovsky@gmail.com
 
 😄 $ sudo apt hire VladLapkovsky
